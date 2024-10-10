@@ -2,7 +2,9 @@
 
 ## Lorenz Attractor Documentation
 
-### Expanded `docs/report.md`
+### Overview
+
+### Expanded Documentation
 
 ---
 
@@ -117,7 +119,3 @@ Chaos theory has been applied to biological and ecological systems to understand
 ### 6.5 Engineering and Control Systems
 
 In engineering, chaos theory has practical applications in designing robust control systems. Engineers use insights from chaotic systems to create systems that can withstand small perturbations without leading to unpredictable behavior. The Lorenz attractor also helps in the analysis of electronic circuits, communication systems, and robotics, particularly in systems where nonlinearity and feedback are essential components.
-
-## 7. Conclusion
-
-The Lorenz attractor is more than just a mathematical curiosity; it serves as a gateway into the profound and complex world of chaos theory. Its implications extend far beyond the original domain of atmospheric convection, touching fields as diverse as physics, biology
